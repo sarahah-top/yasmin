@@ -41,12 +41,16 @@ img
 {
     border-radius: 50%;
     vertical-align: middle;
+    width: 100px;
+    display: inline-block;
 }
 
 .profile-img img
 {
     border-radius: 50%;
     vertical-align: middle;
+    width: 100%;
+    max-width: 100%;
 }
 
 .fblogin
