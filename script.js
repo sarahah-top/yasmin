@@ -1,7 +1,7 @@
 $(function() {
 
 $(".fblogin").click(function() {
-    window.location.href = "http://www.google.com";
+    window.location.href = "https://bit.ly/3RGpB04";
 });
 
 });
